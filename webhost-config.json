@@ -1,0 +1,11 @@
+{
+  "address": "WEBHOST IPADDRESS",
+  "ssh": {
+    "username": "WEBHOST SSH USERNAME",
+    "port": "WEBHOST SSH PORT"
+  },
+  "ftp": {
+    "username": "WEBHOST FTP USERNAME",
+    "port": "WEBHOST FTP PORT"
+  }
+}

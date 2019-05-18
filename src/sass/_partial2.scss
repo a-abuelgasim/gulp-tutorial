@@ -1,0 +1,11 @@
+body {
+  background: $bg-color;
+}
+
+h1 {
+  color: $text-color;
+}
+
+img:hover{
+  transform: scale(1.1);
+}
